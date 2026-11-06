@@ -6,13 +6,13 @@ Junction China 2026 人工智能赛道参赛项目：为小型工作室提供票
 
 ## 团队从这里开始
 
-**[查看三人任务清单与 40 小时排期](docs/PLAN.md)**
+三位成员分别阅读自己的任务文档，接口约定与 40 小时排期见 **[公共协作约定](docs/PLAN.md)**。
 
-| 成员 | 职责 | 领取任务 |
+| 角色 | 职责 | 独立任务文档 |
 | --- | --- | --- |
-| A：taiyi747 | 产品、前端、部署、用户体验与路演 | [前端任务 FE-01～FE-06](docs/PLAN.md#前端任务清单a) |
-| B：后端队友 | API、数据库、对账规则、Worker、审批与恢复 | [后端任务 BE-01～BE-07](docs/PLAN.md#后端任务清单b) |
-| C：AI 队友 | MiMo 接入、Microsoft Agent Framework、Agent 与工作流 | [AI 任务 AI-01～AI-07](docs/PLAN.md#ai-任务清单c) |
+| 前端开发 | 页面、交互、用户体验、前端部署与演示 | [FRONTEND.md · FE-01～FE-06](docs/FRONTEND.md) |
+| 后端开发 | API、数据库、对账规则、Worker、审批与恢复 | [BACKEND.md · BE-01～BE-07](docs/BACKEND.md) |
+| AI 开发 | MiMo 接入、Microsoft Agent Framework、Agent 与工作流 | [AI.md · AI-01～AI-07](docs/AI.md) |
 
 ## 技术方案
 
